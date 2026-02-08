@@ -9,6 +9,7 @@
   <a href="https://coveralls.io/github/ElemeFE/element?branch=master">
     <img src="https://coveralls.io/repos/github/ElemeFE/element/badge.svg?branch=master">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Felement?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Felement.svg?type=shield"/></a>
   <a href="https://cdnjs.com/libraries/element-ui">
     <img src="https://img.shields.io/cdnjs/v/element-ui.svg">
   </a>
@@ -43,6 +44,9 @@ Element will stay with Vue 2.x
 For Vue 3.0, we recommend using [Element Plus](https://github.com/element-plus/element-plus)(Element Plus is a community develop project)
 
 For MiniProgram development, we recommend using [MorJS](https://github.com/eleme/morjs)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Felement.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Felement?ref=badge_large)
 
 ## Links
 - Homepage and documentation
